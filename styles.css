@@ -5,3 +5,6 @@ hr {
     background-color: rgb(216, 210, 210);
     height: 2.5px;
 }
+img {
+    float: left;
+}
