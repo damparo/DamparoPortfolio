@@ -8,3 +8,15 @@ hr {
 img {
     float: left;
 }
+.container {
+    background-color: white;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+body {
+    background-color: rgb(252, 246, 247);
+}
+.responsive {
+    width: 100%;
+    height: auto;
+}
