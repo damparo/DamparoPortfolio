@@ -1,10 +1,22 @@
+/* CSS styles for all pages */
 hr {
     width: 100%;
     margin-top: auto;
     margin-right: auto;
-    background-color: rgb(216, 210, 210);
+    margin-bottom: 30px;
+    background-color:grey;
     height: 2.5px;
 }
+h1 {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+body {
+    background-color: rgba(233, 231, 231, 0.938);
+}
+/* CSS styles for About page */
 img {
     float: left;
 }
@@ -12,10 +24,9 @@ img {
     background-color: white;
     margin-top: 35px;
     margin-bottom: 35px;
+    border-bottom-color: #0E6BA8;
 }
-body {
-    background-color: rgb(252, 246, 247);
-}
+/* CSS styles for Portfolio page */
 .responsive {
     width: 100%;
     height: auto;
