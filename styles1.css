@@ -1,12 +1,15 @@
+nav {
+    background-color: rgb(90, 137, 168);
+}
 .container {
-    width: 80%;
+    width: 60%;
 }
 
 .col-9 {
     margin-top: 80px;
 }
 
-img {
+.circle {
     /* border-radius: 40%;
     width:100px; */
     float: left;
@@ -14,10 +17,29 @@ img {
     width: 250px;
     margin-right: 30px;
   }
-.nav-wrapper {
-    background-color: rgb(97, 105, 109);
 
+  .sedona {
+      width: 80%;
+
+  }
+
+  .imagerows {
+      align-content: center;
+  }
+
+  .desert {
+    /* height: 250em;
+    width: 729.2em; */
+    height: 20.83em;
+    width: 50.5em;
+
+    
 }
-.fontcolor {
-    color: black;
-}
+@media only screen and (max-width: 1100px) {
+     /* For mobile phones: */
+     .desert {
+    border: 5px solid red;
+      height: 5em;
+        width: 15em;
+    }
+ }
