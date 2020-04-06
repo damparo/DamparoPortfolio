@@ -11,6 +11,10 @@
 
      <!-- Compiled and minified JavaScript -->
      <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+
+
              
 
   <link rel="stylesheet" href="styles1.css" />
@@ -43,24 +47,41 @@
 
 
     <div class="container">
-      <div class="row">
+      <div class="row" id="welcome">
+        
+            <div class="col-md-4">
+                <img src="assets/IMG_8172.jpg" alt="Man standing in front color background" class="circle"/>
+            </div>
+            <div class="col-md-8" id="hello">
+                <h4>
+                  Hello, my name is Dennis and I'm a Front End Developer.
+                </h4>
+            </div>
 
-        <div class="col-8">
+      </div>
+      <div class="row" id="bio">
+            <div class="col-md-12">
+              <h4>
+                My story:
+                <br> 
+                <br>
+                I live in Scottsdale, AZ and graduated from Arizona State University with a BS in Chemical Engineering.  After traveling the world for a summer, I realized my passion was to create high quality applications focused on a sound user experience and design.
+                <br>
+                <br>
+                In my free time I enjoy traveling, trying new food, and pursuing new web development projects.
+              </h4>
+            </div>
+      </div>
+    </div>
 
-          <div class="row">
-            <h4><img src="assets/IMG_8172.jpg" alt="Kyle" class="circle"/>Hello, my name is Dennis and I'm a Front End Developer.</h4>
-            <h6> My passion is to create high quality responsive websites with an exceptional user experience.</h6>
-          </div>
 
-          <div class="row">
-            <h5>
-                About Me:
-                I live in Scottsdale, AZ and graduated from Arizona State
-                University with a BS in Chemical Engineering. I made the switch to web development after traveling the world and I haven't looked back! I like to spend my time traveling, trying new food, and pursuing new web development projects.
-              </h5>
-          </div>
 
-        </div>
+        
+
+          <!-- <div class="row">
+          </div> -->
+
+      
 
 
         <!-- <div class="col-4">
@@ -74,7 +95,7 @@
           </div>
       </div> -->
       
-    </div>
+  
     
     <script
   src="https://code.jquery.com/jquery-2.2.4.min.js"
