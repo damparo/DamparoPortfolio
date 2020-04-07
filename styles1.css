@@ -30,29 +30,42 @@ nav {
     margin-top: 50px;
 }
 
+/* Projects CSS begins here */
 
+/* .wrapper {
+    margin-top: 50px;
+} */
 
-.col-9 {
-    margin-top: 80px;
+.Proj1 {
+    margin-top: 175px;
+}
+.Proj2 {
+    margin-top: 50px;
+}
+.Proj3 {
+    margin-top: 50px;
+}
+.Proj4 {
+    margin-top: 50px;
 }
 
+.imgTitle {
+    background-color: rgb(71, 255, 169);
+    margin-bottom: 0;
+}
+.image {
+    background-color: rgb(71, 105, 255);
+    margin-bottom: 0;
+}
+.techUsed {
+    background-color: rgb(237, 255, 71);
+}
 
-  .sedona {
-      width: 80%;
-
-  }
-
-  .imagerows {
-      align-content: center;
-  }
-
-  .desert {
+.desert {
     /* height: 250em;
     width: 729.2em; */
-    height: 20.83em;
-    width: 50.5em;
-
-    
+    height: 334.44px;
+    width: 1140px;    
 }
 @media only screen and (max-width: 1100px) {
      /* For mobile phones: */
