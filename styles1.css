@@ -1,5 +1,5 @@
 nav {
-    background-color: rgb(42, 58, 204);
+    background-color: rgb(3, 3, 3);
 }
 
 .container {
@@ -30,6 +30,41 @@ nav {
     margin-top: 50px;
 }
 
+#socialMedia {
+    margin-top: 150px;
+}
+
+.fab {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: auto;
+    padding-left: 0;
+  }
+  .far {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: auto;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+.fa-github {
+    padding-right: 0;
+}  
+.fa-linkedin-in {
+    padding-right: 0;
+} 
+
+.col-3 {
+    align-content: center;
+    text-align: center;
+}
 /* Projects CSS begins here */
 
 /* .wrapper {
