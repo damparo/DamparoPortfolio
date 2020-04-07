@@ -83,6 +83,12 @@ nav {
 .Proj4 {
     margin-top: 50px;
 }
+.Proj5 {
+    margin-top: 50px;
+}
+.Proj6 {
+    margin-top: 50px;
+}
 
 .imgTitle {
     background-color: rgb(71, 255, 169);
@@ -109,4 +115,8 @@ nav {
       height: 5em;
         width: 15em;
     }
+ }
+ /* Contact CSS begins here */
+ .contact {
+    margin-top: 50px;
  }
