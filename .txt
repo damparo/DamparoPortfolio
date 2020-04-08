@@ -1,0 +1,6 @@
+project one - vibes = welcome to you mood
+project two - bulletjournal
+hw 1 - Weather Dashboard
+hw 2 - Planner
+hw 3 - Workout Tracker
+hw 4 - PassWord Generator
