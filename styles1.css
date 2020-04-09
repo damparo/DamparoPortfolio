@@ -1,9 +1,12 @@
 nav {
     background-color: rgb(3, 3, 3);
 }
-
+body {
+    /* background-color: rgb(192, 85, 85); */
+}
 .container {
     width: 80%;
+    /* background-color: white; */
 }
 #welcome {
     margin-top: 50px;
@@ -28,6 +31,13 @@ nav {
 
 #bio {
     margin-top: 50px;
+    /* border-style: solid;
+    border-color: blueviolet; */
+
+}
+.textJustify {
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 #socialMedia {
@@ -42,6 +52,8 @@ nav {
     text-decoration: none;
     margin: auto;
     padding-left: 0;
+    color: black;
+    
   }
   .far {
     padding: 20px;
@@ -52,6 +64,7 @@ nav {
     margin: auto;
     padding-left: 0;
     padding-right: 0;
+    color: black;
   }
 
 .fa-github {
@@ -70,6 +83,7 @@ nav {
 /* .wrapper {
     margin-top: 50px;
 } */
+
 
 .Proj1 {
     margin-top: 175px;
@@ -91,7 +105,7 @@ nav {
 }
 
 .imgTitle {
-    background-color: rgb(71, 255, 169);
+    background-color: rgb(233, 233, 233);
     margin-bottom: 0;
 }
 .image {
@@ -99,7 +113,10 @@ nav {
     margin-bottom: 0;
 }
 .techUsed {
-    background-color: rgb(237, 255, 71);
+    background-color: rgb(233, 233, 233);
+}
+h5 {
+    color: black;
 }
 
 .desert {
