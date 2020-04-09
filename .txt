@@ -6,13 +6,20 @@ hw 3 - Workout Tracker
 hw 4 - PassWord Generator
 
 
-styling
+CSS left to do ---
 publish images
+
+
 sizing of images
 
 
 
 update----
-linkedIn
-Resume
-Github
+
+
+linkedIn----
+link to portfolio on profile
+
+
+Github---
+link to portfolio on profile
